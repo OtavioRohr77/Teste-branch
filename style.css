@@ -20,4 +20,8 @@
 .item2 { grid-area: main; }
 .item3 { grid-area: aside; }
 .item4 { grid-area: footer; }
+
+.item1{
+    border:3px solid purple;
+}
   
